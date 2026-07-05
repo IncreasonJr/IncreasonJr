@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Caleb<br><br>- 🔭 I'm currently working on my life:)<br>- 🌱 I'm learning AI/ML<br>- 👯 I'm looking to collaborate on Python projects<br>- 📫 How to reach me: delatorcaleb3@gmail.com---Delator Caleb EDudzi(LinkedIn)<br>- ⚡ Fun fact: I'm more fun in person than my commit messages...<br>
+# Hi 👋, I'm Caleb<br><br>- 🔭 I'm currently working on my life:)<br>- 🌱 I'm a FullStack AI Engineer <br>- 👯 I'm looking to collaborate on Python projects<br>- 📫 How to reach me: delatorcaleb3@gmail.com---Delator Caleb EDudzi(LinkedIn)<br>- ⚡ Fun fact: I'm more fun in person than my commit messages...<br>
 
 
 ## 🌐 Socials:
